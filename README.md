@@ -36,4 +36,4 @@ Complete **Disk Drill Suite Master** productivity environment offering calendar 
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion. 
+> This repository is provided for educational and utility purposes only. Use at your own discretion.  
